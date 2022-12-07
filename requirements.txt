@@ -1,0 +1,7 @@
+spacy==3.4.3
+transformers==4.25.1
+--find-links https://download.pytorch.org/whl/cu113/torch-1.12.1%2Bcu113-cp38-cp38-linux_x86_64.whl
+torch==1.12.1+cpu
+transformers==4.25.1
+wikipedia==1.4.0
+wordfreq==3.0.3
