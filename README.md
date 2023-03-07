@@ -13,3 +13,6 @@ Our model uses a template-based approach with SPACY that searches through releva
 This module uses a.txt to answer the questions in b.txt \
 It can be run via ./questionAnswering/answer.py a.txt b.txt \
 Our model uses an IR-based approach to QA: we will identify the top few sentences within a document that are most likely to contain the answer and extract candidate answers from each sentence, ultimately returning our most confident answer.
+
+# Teamwork
+This project was made in collaboration with Tanay Bennur and Alexandra Knox, both undergraduates at CMU.
